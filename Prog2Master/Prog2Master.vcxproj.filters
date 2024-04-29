@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\class1">
+      <UniqueIdentifier>{20d786e0-719f-4cda-baab-843c60b3cfb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\class2">
+      <UniqueIdentifier>{8375cdb9-690b-4a01-ae08-4dda2fb39f03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\class3">
+      <UniqueIdentifier>{2c071460-0220-404a-807e-d870249c5f8e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="prog1.cpp">
+      <Filter>ソース ファイル\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2.cpp">
+      <Filter>ソース ファイル\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="progMaster.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3.cpp">
+      <Filter>ソース ファイル\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="prog4.cpp">
+      <Filter>ソース ファイル\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="prog5.cpp">
+      <Filter>ソース ファイル\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="prog6.cpp">
+      <Filter>ソース ファイル\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="prog7.cpp">
+      <Filter>ソース ファイル\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="prog8.cpp">
+      <Filter>ソース ファイル\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_1.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_2.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_3.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_4.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_5.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_6.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_7.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_8.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_9.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_10.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_11.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog2_12.cpp">
+      <Filter>ソース ファイル\class2</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_1.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_2.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_3.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_4.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_5.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_6.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_7.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_8.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_9.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_10.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_11.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_12.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_13.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_14.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="prog3_15.cpp">
+      <Filter>ソース ファイル\class3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="class1.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="class2.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="class3.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
