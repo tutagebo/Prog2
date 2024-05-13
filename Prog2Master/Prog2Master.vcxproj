@@ -127,6 +127,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="prog0401.cpp" />
+    <ClCompile Include="prog0402.cpp" />
+    <ClCompile Include="prog0403.cpp" />
+    <ClCompile Include="prog0404.cpp" />
+    <ClCompile Include="prog0405.cpp" />
+    <ClCompile Include="prog0406.cpp" />
+    <ClCompile Include="prog0407.cpp" />
+    <ClCompile Include="prog0408.cpp" />
+    <ClCompile Include="prog0409.cpp" />
+    <ClCompile Include="prog0410.cpp" />
+    <ClCompile Include="prog0411.cpp" />
+    <ClCompile Include="prog0412.cpp" />
+    <ClCompile Include="prog0413.cpp" />
+    <ClCompile Include="prog0414.cpp" />
+    <ClCompile Include="prog0415.cpp" />
     <ClCompile Include="prog1.cpp" />
     <ClCompile Include="prog2.cpp" />
     <ClCompile Include="prog2_1.cpp" />
@@ -168,6 +183,7 @@
     <ClInclude Include="class1.h" />
     <ClInclude Include="class2.h" />
     <ClInclude Include="class3.h" />
+    <ClInclude Include="class4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -22,6 +22,9 @@
     <Filter Include="ソース ファイル\class3">
       <UniqueIdentifier>{2c071460-0220-404a-807e-d870249c5f8e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\class4">
+      <UniqueIdentifier>{a96047e1-1b94-42c8-87b1-e505c7d72382}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prog1.cpp">
@@ -132,6 +135,51 @@
     <ClCompile Include="prog3_15.cpp">
       <Filter>ソース ファイル\class3</Filter>
     </ClCompile>
+    <ClCompile Include="prog0401.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0402.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0403.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0404.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0405.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0406.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0407.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0408.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0409.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0410.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0411.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0412.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0413.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0414.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0415.cpp">
+      <Filter>ソース ファイル\class4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class1.h">
@@ -141,6 +189,9 @@
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
     <ClInclude Include="class3.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="class4.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
