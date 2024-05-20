@@ -25,6 +25,9 @@
     <Filter Include="ソース ファイル\class4">
       <UniqueIdentifier>{a96047e1-1b94-42c8-87b1-e505c7d72382}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\class5">
+      <UniqueIdentifier>{c160a9da-c5b9-4827-929f-402cd3f6d897}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prog0101.cpp">
@@ -180,6 +183,27 @@
     <ClCompile Include="prog0415.cpp">
       <Filter>ソース ファイル\class4</Filter>
     </ClCompile>
+    <ClCompile Include="prog0506.cpp">
+      <Filter>ソース ファイル\class5</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0507.cpp">
+      <Filter>ソース ファイル\class5</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0508.cpp">
+      <Filter>ソース ファイル\class5</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0509.cpp">
+      <Filter>ソース ファイル\class5</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0510.cpp">
+      <Filter>ソース ファイル\class5</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0511.cpp">
+      <Filter>ソース ファイル\class5</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0512.cpp">
+      <Filter>ソース ファイル\class5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class1.h">
@@ -192,6 +216,9 @@
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
     <ClInclude Include="class4.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="class5.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
