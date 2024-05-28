@@ -28,6 +28,9 @@
     <Filter Include="ソース ファイル\class5">
       <UniqueIdentifier>{c160a9da-c5b9-4827-929f-402cd3f6d897}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\class6">
+      <UniqueIdentifier>{2a26884f-1e99-4c59-803d-5aaf7c56f42c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prog0101.cpp">
@@ -203,6 +206,39 @@
     </ClCompile>
     <ClCompile Include="prog0512.cpp">
       <Filter>ソース ファイル\class5</Filter>
+    </ClCompile>
+    <ClCompile Include="class6.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0605.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0606.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0607.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0608.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0609.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0610.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0611.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0612.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0609ex.cpp">
+      <Filter>ソース ファイル\class6</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0610ex.cpp">
+      <Filter>ソース ファイル\class6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

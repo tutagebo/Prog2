@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="class6.h" />
     <ClCompile Include="prog0401.cpp" />
     <ClCompile Include="prog0402.cpp" />
     <ClCompile Include="prog0403.cpp" />
@@ -184,6 +185,16 @@
     <ClCompile Include="prog0510.cpp" />
     <ClCompile Include="prog0511.cpp" />
     <ClCompile Include="prog0512.cpp" />
+    <ClCompile Include="prog0605.cpp" />
+    <ClCompile Include="prog0606.cpp" />
+    <ClCompile Include="prog0607.cpp" />
+    <ClCompile Include="prog0608.cpp" />
+    <ClCompile Include="prog0609.cpp" />
+    <ClCompile Include="prog0609ex.cpp" />
+    <ClCompile Include="prog0610.cpp" />
+    <ClCompile Include="prog0610ex.cpp" />
+    <ClCompile Include="prog0611.cpp" />
+    <ClCompile Include="prog0612.cpp" />
     <ClCompile Include="progMaster.cpp" />
   </ItemGroup>
   <ItemGroup>
