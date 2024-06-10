@@ -34,6 +34,9 @@
     <Filter Include="ソース ファイル\class7">
       <UniqueIdentifier>{01ce942d-ef24-4f95-867e-9cb39df37f38}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\class8">
+      <UniqueIdentifier>{5c77fbb9-12bc-443b-a225-98a8165c1c78}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prog0101.cpp">
@@ -264,8 +267,32 @@
     <ClCompile Include="prog0711.cpp">
       <Filter>ソース ファイル\class7</Filter>
     </ClCompile>
+    <ClCompile Include="prog0805.cpp">
+      <Filter>ソース ファイル\class8</Filter>
+    </ClCompile>
     <ClCompile Include="prog0712.cpp">
       <Filter>ソース ファイル\class7</Filter>
+    </ClCompile>
+    <ClCompile Include="class0806.cpp">
+      <Filter>ソース ファイル\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="class0807.cpp">
+      <Filter>ソース ファイル\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0808.cpp">
+      <Filter>ソース ファイル\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0809.cpp">
+      <Filter>ソース ファイル\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0810.cpp">
+      <Filter>ソース ファイル\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0811.cpp">
+      <Filter>ソース ファイル\class8</Filter>
+    </ClCompile>
+    <ClCompile Include="prog0812.cpp">
+      <Filter>ソース ファイル\class8</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -285,6 +312,9 @@
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
     <ClInclude Include="class7.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="class8.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
