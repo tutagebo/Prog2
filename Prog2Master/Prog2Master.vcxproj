@@ -211,6 +211,14 @@
     <ClCompile Include="prog0810.cpp" />
     <ClCompile Include="prog0811.cpp" />
     <ClCompile Include="prog0812.cpp" />
+    <ClCompile Include="prog0905.cpp" />
+    <ClCompile Include="prog0906.cpp" />
+    <ClCompile Include="prog0907.cpp" />
+    <ClCompile Include="prog0908.cpp" />
+    <ClCompile Include="prog0909.cpp" />
+    <ClCompile Include="prog0910.cpp" />
+    <ClCompile Include="prog0911.cpp" />
+    <ClCompile Include="prog0912.cpp" />
     <ClCompile Include="progMaster.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -221,6 +229,7 @@
     <ClInclude Include="class5.h" />
     <ClInclude Include="class7.h" />
     <ClInclude Include="class8.h" />
+    <ClInclude Include="class9.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

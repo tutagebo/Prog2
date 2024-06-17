@@ -1,6 +1,6 @@
 #include <iostream>
-#include "class8.h"
+#include "class9.h"
 
 int main() {
-    prog8_12();
+    prog9_12();
 }
