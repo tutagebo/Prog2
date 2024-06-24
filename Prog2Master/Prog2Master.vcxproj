@@ -219,10 +219,19 @@
     <ClCompile Include="prog0910.cpp" />
     <ClCompile Include="prog0911.cpp" />
     <ClCompile Include="prog0912.cpp" />
+    <ClCompile Include="prog1006.cpp" />
+    <ClCompile Include="prog1007.cpp" />
+    <ClCompile Include="prog1008.cpp" />
+    <ClCompile Include="prog1009.cpp" />
+    <ClCompile Include="prog1010.cpp" />
+    <ClCompile Include="prog1011.cpp" />
+    <ClCompile Include="prog1012.cpp" />
+    <ClCompile Include="prog1013.cpp" />
     <ClCompile Include="progMaster.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class1.h" />
+    <ClInclude Include="class10.h" />
     <ClInclude Include="class2.h" />
     <ClInclude Include="class3.h" />
     <ClInclude Include="class4.h" />
