@@ -46,6 +46,9 @@
     <Filter Include="ソース ファイル\class11">
       <UniqueIdentifier>{1a1f8c59-9200-4d3d-8c5d-eb278ebcc9ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\class12">
+      <UniqueIdentifier>{82220cd1-4343-43df-9df2-ae50c0db9252}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prog0101.cpp">
@@ -378,6 +381,30 @@
     <ClCompile Include="prog1112.cpp">
       <Filter>ソース ファイル\class11</Filter>
     </ClCompile>
+    <ClCompile Include="prog1205.cpp">
+      <Filter>ソース ファイル\class12</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1206.cpp">
+      <Filter>ソース ファイル\class12</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1207.cpp">
+      <Filter>ソース ファイル\class12</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1208.cpp">
+      <Filter>ソース ファイル\class12</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1209.cpp">
+      <Filter>ソース ファイル\class12</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1210.cpp">
+      <Filter>ソース ファイル\class12</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1211.cpp">
+      <Filter>ソース ファイル\class12</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1212.cpp">
+      <Filter>ソース ファイル\class12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class1.h">
@@ -405,6 +432,9 @@
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
     <ClInclude Include="class10.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="class12.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>

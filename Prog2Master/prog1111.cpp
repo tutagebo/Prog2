@@ -28,7 +28,8 @@ int prog11_11() {
         scanf_s("%d %d %d %d %d", &en, &ma, &py, &ch, &bi);
         InitExam(&exam[i], num, en, ma, py, ch, bi);
     }
-
+    
+    //ÉRÉRÉJÉâprog1112
     for (int i = 0; i < N; i++) {
         for (int j = N - 1; j > i; j--) {
             if (exam[j].ave > exam[j - 1].ave) {
@@ -48,6 +49,7 @@ int prog11_11() {
 
 
     /*
+    prog1111
     double maxPoint = 0;
     int maxNum = 0;
     for (ExamData e : exam) {

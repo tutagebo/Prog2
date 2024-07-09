@@ -236,11 +236,20 @@
     <ClCompile Include="prog1110.cpp" />
     <ClCompile Include="prog1111.cpp" />
     <ClCompile Include="prog1112.cpp" />
+    <ClCompile Include="prog1205.cpp" />
+    <ClCompile Include="prog1206.cpp" />
+    <ClCompile Include="prog1207.cpp" />
+    <ClCompile Include="prog1208.cpp" />
+    <ClCompile Include="prog1209.cpp" />
+    <ClCompile Include="prog1210.cpp" />
+    <ClCompile Include="prog1211.cpp" />
+    <ClCompile Include="prog1212.cpp" />
     <ClCompile Include="progMaster.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class1.h" />
     <ClInclude Include="class10.h" />
+    <ClInclude Include="class12.h" />
     <ClInclude Include="class2.h" />
     <ClInclude Include="class3.h" />
     <ClInclude Include="class4.h" />
