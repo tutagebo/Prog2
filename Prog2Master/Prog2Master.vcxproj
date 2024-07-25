@@ -244,12 +244,21 @@
     <ClCompile Include="prog1210.cpp" />
     <ClCompile Include="prog1211.cpp" />
     <ClCompile Include="prog1212.cpp" />
+    <ClCompile Include="prog1305.cpp" />
+    <ClCompile Include="prog1306.cpp" />
+    <ClCompile Include="prog1307.cpp" />
+    <ClCompile Include="prog1308.cpp" />
+    <ClCompile Include="prog1309.cpp" />
+    <ClCompile Include="prog1310.cpp" />
+    <ClCompile Include="prog1311.cpp" />
+    <ClCompile Include="prog1312.cpp" />
     <ClCompile Include="progMaster.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class1.h" />
     <ClInclude Include="class10.h" />
     <ClInclude Include="class12.h" />
+    <ClInclude Include="class13.h" />
     <ClInclude Include="class2.h" />
     <ClInclude Include="class3.h" />
     <ClInclude Include="class4.h" />
@@ -257,6 +266,14 @@
     <ClInclude Include="class7.h" />
     <ClInclude Include="class8.h" />
     <ClInclude Include="class9.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="census.dat" />
+    <None Include="indata.dat" />
+    <None Include="molecularDB.dat" />
+    <None Include="num.dat" />
+    <None Include="outdata.dat" />
+    <None Include="sentence.dat" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

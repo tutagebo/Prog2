@@ -49,6 +49,9 @@
     <Filter Include="ソース ファイル\class12">
       <UniqueIdentifier>{82220cd1-4343-43df-9df2-ae50c0db9252}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\class13">
+      <UniqueIdentifier>{aed17342-24c5-4c6b-b355-2257c4f0758b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="prog0101.cpp">
@@ -405,6 +408,30 @@
     <ClCompile Include="prog1212.cpp">
       <Filter>ソース ファイル\class12</Filter>
     </ClCompile>
+    <ClCompile Include="prog1305.cpp">
+      <Filter>ソース ファイル\class13</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1306.cpp">
+      <Filter>ソース ファイル\class13</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1307.cpp">
+      <Filter>ソース ファイル\class13</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1308.cpp">
+      <Filter>ソース ファイル\class13</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1309.cpp">
+      <Filter>ソース ファイル\class13</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1310.cpp">
+      <Filter>ソース ファイル\class13</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1311.cpp">
+      <Filter>ソース ファイル\class13</Filter>
+    </ClCompile>
+    <ClCompile Include="prog1312.cpp">
+      <Filter>ソース ファイル\class13</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class1.h">
@@ -437,5 +464,28 @@
     <ClInclude Include="class12.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
+    <ClInclude Include="class13.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="indata.dat">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="outdata.dat">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="num.dat">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="census.dat">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="sentence.dat">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="molecularDB.dat">
+      <Filter>リソース ファイル</Filter>
+    </None>
   </ItemGroup>
 </Project>
