@@ -22,6 +22,8 @@ int prog14_1() {
         printf("%d", bin[i]);
     }
     printf("\n");
+
+
     x = xin;
     for (int i = 0; i < 4; i++) {
         hex[i] = x % 16;
