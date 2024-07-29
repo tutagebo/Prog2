@@ -252,6 +252,7 @@
     <ClCompile Include="prog1310.cpp" />
     <ClCompile Include="prog1311.cpp" />
     <ClCompile Include="prog1312.cpp" />
+    <ClCompile Include="prog1401.cpp" />
     <ClCompile Include="progMaster.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -259,6 +260,7 @@
     <ClInclude Include="class10.h" />
     <ClInclude Include="class12.h" />
     <ClInclude Include="class13.h" />
+    <ClInclude Include="class14.h" />
     <ClInclude Include="class2.h" />
     <ClInclude Include="class3.h" />
     <ClInclude Include="class4.h" />
