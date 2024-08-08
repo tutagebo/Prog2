@@ -2,5 +2,5 @@
 #include "class14.h"
 
 int main() {
-    prog14_1();
+    prog14_2();
 }

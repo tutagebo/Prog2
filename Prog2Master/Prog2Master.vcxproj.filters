@@ -438,6 +438,9 @@
     <ClCompile Include="prog1401.cpp">
       <Filter>ソース ファイル\class14</Filter>
     </ClCompile>
+    <ClCompile Include="prog1402.cpp">
+      <Filter>ソース ファイル\class14</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class1.h">
@@ -494,6 +497,9 @@
       <Filter>リソース ファイル</Filter>
     </None>
     <None Include="molecularDB.dat">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="exam.dat">
       <Filter>リソース ファイル</Filter>
     </None>
   </ItemGroup>

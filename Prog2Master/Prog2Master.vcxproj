@@ -253,6 +253,7 @@
     <ClCompile Include="prog1311.cpp" />
     <ClCompile Include="prog1312.cpp" />
     <ClCompile Include="prog1401.cpp" />
+    <ClCompile Include="prog1402.cpp" />
     <ClCompile Include="progMaster.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -271,6 +272,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="census.dat" />
+    <None Include="exam.dat" />
     <None Include="indata.dat" />
     <None Include="molecularDB.dat" />
     <None Include="num.dat" />
